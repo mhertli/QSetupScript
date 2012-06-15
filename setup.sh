@@ -5,7 +5,7 @@ if [ $# -eq 0 ]
 then 
 	echo "\033[0m"
 	echo ----------------------------------------
-	echo Setup Skript für Symfony2 Projekte "(v0.2)"
+	echo Setup Skript für Symfony2 Projekte "(v0.3)"
 	echo ========================================
 	echo "\033[1m"Ausführung:"\033[0m"
 	echo chmod u+x setup.sh
